@@ -1,0 +1,105 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #F3FCF0;
+}
+
+.name {
+    width: 100%;
+    height: 300px;
+    background:#9eccd6 ;
+
+
+}
+.name .Imagen{
+    position: absolute;
+    top: 8%;
+    right: 5%;
+
+}
+.name .Imagen img {
+    width: 214px;
+    height: 212px;
+}
+.name .Contenido {
+    width: 50%;
+    height: 50px;
+    position: absolute;
+    left: 27%;
+}
+
+.name .Contenido .P_2 {
+    color: #bcf1d9;
+    font-family: 'Anton', sans-serif;
+    font-weight: bolder;
+    font-size: 35px;
+    margin-bottom: 0;
+    margin-top: 15%;
+    
+} 
+.name .Contenido .P_3 {
+    color: #bcf1d9;
+    font-family: 'Anton', sans-serif;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-bottom: 0;
+}
+
+.info1 {
+
+    width: 90%;
+    height: auto;
+    background:#9eccd6 ;
+    margin: 5% auto;
+    padding: 20px;
+    border-radius: 30px;
+}
+.info1 .titulo {
+    color: #bcf1d9;
+    font-family: 'Anton', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-bottom: 0;
+    text-align: center;
+    border-bottom: 5px #F3FCF0 dashed;
+    display: block;
+}
+.Perfil_Profesional{
+    width: 90%;
+    height: auto;
+    background:#9eccd6 ;
+    margin: 5% auto;
+    padding: 20px;
+    border-radius: 30px;
+}
+.Perfil_Profesional .info_10{
+    color: #bcf1d9;
+    font-family: 'Anton', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-bottom: 0;
+    text-align: center;
+    border-bottom: 5px #F3FCF0 dashed;
+    display: block;
+}
+.Perfil_Profesional .info_11{
+    font-size: 20px;
+}
+.Formacion {
+    width: 90%;
+    height: auto;
+    background:#9eccd6 ;
+    margin: 5% auto;
+    padding: 20px;
+    border-radius: 30px;
+}
+.Formacion .info_12{
+    color: #bcf1d9;
+    font-family: 'Anton', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-bottom: 0;
+    text-align: center;
+    border-bottom: 5px #F3FCF0 dashed;
+    display: block;
+}
